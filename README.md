@@ -1,6 +1,6 @@
 # Кастомная цель для Яндекс.Метрики по активности
 
-![alt text](https://ibb.co/Hpmb6s3)
+![alt text](https://i.ibb.co/QjsTLRt/main.jpg)
 
 ## О скрипте
 
