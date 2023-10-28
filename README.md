@@ -18,6 +18,8 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 
 ## Настройка и установка
 
+Необходимо указать в параметрах номер вашего счетчика и идентификатор цели - activity_goal  ( js событие )
+<img src="https://ibb.co/8MX7rQG"  width="500" height="600">
 Код необходимо разместить перед закрывающим тегом head
 
 ## Использование
